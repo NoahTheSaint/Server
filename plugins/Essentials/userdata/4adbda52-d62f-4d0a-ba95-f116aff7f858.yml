@@ -1,0 +1,29 @@
+lastAccountName: Blaze1506
+timestamps:
+  login: 1564828856814
+  lastteleport: 1564838943696
+  logout: 1564839185247
+ipAddress: 14.2.76.209
+homes:
+  home:
+    world: world
+    x: 24.238331302563644
+    y: 63.0
+    z: 441.8449182362391
+    yaw: 0.8977356
+    pitch: 13.199295
+lastlocation:
+  world: world
+  x: -58.0
+  y: 72.0
+  z: -141.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world_nether
+  x: -154.62969934356767
+  y: 67.0
+  z: 92.08380784206749
+  yaw: 279.2607
+  pitch: 1.3512155
+afk: false

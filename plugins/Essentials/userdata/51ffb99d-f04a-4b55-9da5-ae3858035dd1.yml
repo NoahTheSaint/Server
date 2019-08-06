@@ -1,0 +1,42 @@
+lastAccountName: Schmocks_1
+timestamps:
+  login: 1564875147006
+  logout: 1564878072538
+  lastteleport: 1564877721717
+ipAddress: 49.178.53.79
+logoutlocation:
+  world: world
+  x: -1476.4131244949954
+  y: 86.0
+  z: -2046.963384801316
+  yaw: 0.29430178
+  pitch: 38.2753
+homes:
+  home:
+    world: world
+    x: -1481.1817549649188
+    y: 84.0
+    z: -2037.6072058183022
+    yaw: 37.864616
+    pitch: 18.334974
+  church:
+    world: world
+    x: -181.4052439847367
+    y: 80.0
+    z: 176.01468857930868
+    yaw: 359.39896
+    pitch: -17.776697
+  spawner:
+    world: world
+    x: -1490.3994108061365
+    y: 66.0
+    z: -1821.8566764219931
+    yaw: -61.90631
+    pitch: 22.882753
+lastlocation:
+  world: world
+  x: -1502.5546566612475
+  y: 63.0
+  z: -1835.4295983719874
+  yaw: -13.029297
+  pitch: 11.332473

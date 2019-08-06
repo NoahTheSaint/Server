@@ -1,0 +1,30 @@
+lastAccountName: Acarthae
+timestamps:
+  login: 1565067659846
+  lastteleport: 1565067695089
+  logout: 1565067700090
+ipAddress: 129.96.82.197
+lastlocation:
+  world: world
+  x: 2921.7584324740697
+  y: 88.0
+  z: 264.5353878001619
+  yaw: -256.51425
+  pitch: -15.595518
+homes:
+  home:
+    world: world
+    x: 2920.0525962982097
+    y: 74.0
+    z: 85.22497444083254
+    yaw: 302.51147
+    pitch: 17.849989
+logoutlocation:
+  world: world
+  x: 2920.5
+  y: 74.0
+  z: 85.5
+  yaw: 178.27127
+  pitch: 1.3724926
+afk: false
+money: '510'

@@ -1,0 +1,32 @@
+lastAccountName: NoahTheSaint
+timestamps:
+  login: 1564986976876
+  lastteleport: 1564988275283
+  logout: 1564988436915
+ipAddress: 61.68.100.3
+nickname: Noah
+lastlocation:
+  world: world
+  x: -60.83798908778905
+  y: 72.0
+  z: -152.91450588665782
+  yaw: 90.526794
+  pitch: 24.749994
+socialspy: false
+afk: false
+money: '-9983.50'
+logoutlocation:
+  world: world
+  x: -141.1993136207931
+  y: 12.0
+  z: -276.2840058816592
+  yaw: 294.7987
+  pitch: 75.44948
+homes:
+  home:
+    world: world
+    x: -115.5
+    y: 75.6875
+    z: -176.5
+    yaw: 189.3037
+    pitch: 0.0

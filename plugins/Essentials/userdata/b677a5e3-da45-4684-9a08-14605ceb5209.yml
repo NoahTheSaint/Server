@@ -1,0 +1,21 @@
+lastAccountName: alexschmocks
+timestamps:
+  login: 1564993205486
+  logout: 1565011136379
+  lastteleport: 1564639902900
+ipAddress: 45.248.79.132
+logoutlocation:
+  world: world
+  x: -553.7730748852046
+  y: 74.0
+  z: -20.55445755520472
+  yaw: -120.627686
+  pitch: 33.75006
+lastlocation:
+  world: world
+  x: -58.0
+  y: 72.0
+  z: -141.0
+  yaw: -102.9
+  pitch: 21.900005
+afk: false

@@ -1,0 +1,30 @@
+lastAccountName: Phthnack
+timestamps:
+  login: 1565005703785
+  lastteleport: 1565009429374
+  logout: 1565010196270
+ipAddress: 1.158.147.166
+lastlocation:
+  world: world
+  x: -95.79015994718812
+  y: 71.0
+  z: 67.50717311724263
+  yaw: -111.15421
+  pitch: 29.550047
+money: '48'
+logoutlocation:
+  world: world
+  x: -181.7112936695085
+  y: 105.5
+  z: 181.5220221099469
+  yaw: 222.00049
+  pitch: 8.250087
+afk: false
+homes:
+  home:
+    world: world
+    x: -96.15038348855327
+    y: 71.0
+    z: 67.81634311484022
+    yaw: -70.65414
+    pitch: 19.650043

@@ -1,0 +1,341 @@
+[00:32:11] [Server thread/INFO]: Sherrry issued server command: /home
+[00:32:27] [Server thread/INFO]: Sherrry issued server command: /back
+[00:39:55] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[00:39:55] [Server thread/INFO]: Sherrry left the game
+[06:26:36] [Server thread/INFO]: soopdood issued server command: /afk
+[08:58:49] [User Authenticator #83/INFO]: UUID of player Mkwolfy10 is 61a65e5a-9a30-4a2f-860e-115b910baa71
+[08:58:49] [Server thread/INFO]: Mkwolfy10[/193.115.65.127:63603] logged in with entity id 1091794 at ([world]52.20074134866956, 74.0, 603.9472829717795)
+[09:11:18] [User Authenticator #84/INFO]: UUID of player Bradport1 is 062ba881-6d94-47de-a3eb-7925cc641061
+[09:11:18] [Server thread/INFO]: Bradport1[/42.241.169.215:57125] logged in with entity id 1104941 at ([world]2883.137499988079, 77.0, 142.82632926484362)
+[09:11:46] [Server thread/INFO]: Bradport1 issued server command: /setspawn
+[09:11:46] [Server thread/INFO]: §cBradport1 §4was denied access to command.
+[09:11:50] [Server thread/INFO]: Bradport1 issued server command: /sethome
+[09:17:51] [Server thread/INFO]: Mkwolfy10 issued server command: /afk
+[09:25:46] [Server thread/INFO]: Bradport1 hit the ground too hard
+[09:25:52] [Server thread/INFO]: Bradport1 issued server command: /back
+[09:43:33] [Server thread/INFO]: Mkwolfy10 issued server command: /home
+[09:45:46] [Server thread/INFO]: Mkwolfy10 issued server command: /spawn
+[09:47:22] [Server thread/INFO]: Mkwolfy10 issued server command: /home
+[09:48:48] [Server thread/INFO]: Bradport1 went up in flames
+[09:48:55] [Server thread/INFO]: Bradport1 issued server command: /back
+[09:49:01] [Server thread/INFO]: Bradport1 issued server command: /home
+[10:09:30] [Server thread/INFO]: Mkwolfy10 issued server command: /home
+[10:10:11] [Server thread/INFO]: Mkwolfy10 issued server command: /back
+[10:10:40] [Server thread/INFO]: Mkwolfy10 lost connection: Disconnected
+[10:10:40] [Server thread/INFO]: Mkwolfy10 left the game
+[10:19:56] [Server thread/INFO]: Bradport1 hit the ground too hard
+[10:20:02] [Server thread/INFO]: Bradport1 issued server command: /back
+[10:21:30] [Server thread/INFO]: Bradport1 has made the advancement [Best Friends Forever]
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:21:59] [Server thread/WARN]: Horse moved wrongly!
+[10:24:42] [User Authenticator #85/INFO]: UUID of player Mkwolfy10 is 61a65e5a-9a30-4a2f-860e-115b910baa71
+[10:24:43] [Server thread/INFO]: Mkwolfy10[/193.115.65.127:63659] logged in with entity id 1175069 at ([world]41.912129813773035, 15.0, 1316.4137759184625)
+[10:25:33] [Server thread/INFO]: Bradport1 lost connection: Disconnected
+[10:25:33] [Server thread/INFO]: Bradport1 left the game
+[10:35:29] [User Authenticator #86/INFO]: UUID of player Bradport1 is 062ba881-6d94-47de-a3eb-7925cc641061
+[10:35:29] [Server thread/INFO]: Bradport1[/42.241.169.215:58832] logged in with entity id 1186747 at ([world]2883.767450868215, 71.9375, 137.71940115380085)
+[10:38:37] [Server thread/INFO]: Mkwolfy10 lost connection: Disconnected
+[10:38:37] [Server thread/INFO]: Mkwolfy10 left the game
+[10:51:48] [Server thread/INFO]: Bradport1 lost connection: Disconnected
+[10:51:48] [Server thread/INFO]: Bradport1 left the game
+[11:05:38] [User Authenticator #87/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[11:05:39] [Server thread/INFO]: Sherrry[/60.225.163.6:63503] logged in with entity id 1194602 at ([world_nether]-13.13433815620445, 244.0, 47.1366801544821)
+[13:13:09] [Server thread/INFO]: Sherrry issued server command: /home
+[13:13:25] [Server thread/INFO]: Sherrry issued server command: /back
+[13:15:05] [Server thread/INFO]: Sherrry issued server command: /home
+[13:15:18] [Server thread/INFO]: Sherrry issued server command: /back
+[13:15:54] [Server thread/INFO]: Sherrry issued server command: /home
+[13:15:58] [Server thread/INFO]: Sherrry issued server command: /back
+[13:19:29] [Server thread/INFO]: Sherrry issued server command: /home
+[13:28:35] [Server thread/INFO]: Sherrry issued server command: /back
+[13:34:28] [Server thread/INFO]: Sherrry issued server command: /home
+[13:36:37] [Server thread/INFO]: Sherrry issued server command: /home
+[13:38:39] [Server thread/INFO]: Sherrry issued server command: /home
+[13:38:44] [Server thread/INFO]: Sherrry issued server command: /back
+[13:45:41] [Server thread/INFO]: Sherrry issued server command: /home
+[13:51:04] [Server thread/INFO]: Sherrry issued server command: /home
+[13:54:37] [Server thread/INFO]: Sherrry issued server command: /home
+[13:58:35] [Server thread/INFO]: Sherrry issued server command: /home
+[13:58:36] [Server thread/INFO]: Sherrry issued server command: /spawn
+[14:02:17] [Server thread/INFO]: Sherrry issued server command: /home
+[14:05:08] [Server thread/INFO]: Sherrry issued server command: /home
+[14:05:55] [Server thread/INFO]: CONSOLE issued server command: /list 
+[14:05:55] [Server thread/INFO]: [0;33;22mThere are [0;31;1m3[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[14:05:55] [Server thread/INFO]: [0;33;22mdefault[m: [0;37;22m[AFK][mmit_bro[m[0;37;1m, [0;37;22m[AFK][m~Anthony[m[0;37;1m, ~Bailey[m[0;37;1m[m
+[14:08:11] [Server thread/INFO]: Sherrry issued server command: /home
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:11:05] [Server thread/ERROR]: Can't find any space for item in the inventory
+[14:19:18] [Server thread/INFO]: Sherrry issued server command: /home
+[14:19:37] [Server thread/INFO]: Sherrry issued server command: /back
+[14:21:42] [Server thread/INFO]: Sherrry issued server command: /home
+[14:22:00] [Server thread/INFO]: Sherrry issued server command: /back
+[14:22:02] [Server thread/INFO]: Sherrry issued server command: /home
+[14:22:56] [Server thread/INFO]: Sherrry issued server command: /back
+[14:24:25] [Server thread/INFO]: Sherrry issued server command: /home
+[14:24:40] [Server thread/INFO]: Sherrry issued server command: /back
+[14:25:48] [Server thread/INFO]: Sherrry issued server command: /home
+[14:25:52] [Server thread/INFO]: Sherrry issued server command: /back
+[14:27:29] [Server thread/INFO]: Sherrry issued server command: /home
+[14:29:32] [Server thread/INFO]: Sherrry issued server command: /back
+[14:30:11] [Server thread/INFO]: Sherrry issued server command: /home
+[14:30:59] [User Authenticator #88/INFO]: UUID of player Acarthae is 9b6dc95f-54fc-4d94-a7ea-c9239baf52c7
+[14:30:59] [Server thread/INFO]: Acarthae[/129.96.82.197:59443] logged in with entity id 1320416 at ([world]2920.4521789280525, 88.5625, 263.30000001192093)
+[14:31:35] [Server thread/INFO]: Acarthae issued server command: /home
+[14:31:40] [Server thread/INFO]: Acarthae lost connection: Disconnected
+[14:31:40] [Server thread/INFO]: Acarthae left the game
+[14:31:40] [Server thread/INFO]: Sherrry issued server command: /back
+[14:33:15] [Server thread/INFO]: Sherrry issued server command: /home
+[14:33:27] [Server thread/INFO]: Sherrry issued server command: /back
+[14:35:53] [Server thread/INFO]: Sherrry issued server command: /home
+[14:36:53] [Server thread/INFO]: Sherrry issued server command: /back
+[14:37:31] [Server thread/INFO]: Sherrry issued server command: /home
+[14:37:45] [Server thread/INFO]: Sherrry issued server command: /back
+[14:38:19] [Server thread/INFO]: Sherrry issued server command: /home
+[14:38:25] [Server thread/INFO]: Sherrry issued server command: /back
+[14:39:13] [Server thread/INFO]: Sherrry issued server command: /home
+[14:39:27] [Server thread/INFO]: Sherrry issued server command: /back
+[14:40:50] [Server thread/INFO]: Sherrry issued server command: /home
+[14:40:57] [Server thread/INFO]: Sherrry issued server command: /back
+[14:41:23] [Server thread/INFO]: Sherrry issued server command: /back
+[14:41:32] [Server thread/INFO]: Sherrry issued server command: /back
+[14:42:12] [Server thread/INFO]: Sherrry issued server command: /back
+[14:42:46] [Server thread/INFO]: Sherrry issued server command: /back
+[14:44:18] [Server thread/INFO]: Sherrry issued server command: /home
+[14:44:50] [Server thread/INFO]: Sherrry issued server command: /back
+[14:44:55] [Server thread/INFO]: Sherrry issued server command: /back
+[14:45:00] [Server thread/INFO]: Sherrry issued server command: /home
+[14:45:18] [Server thread/WARN]: Sherrry moved too quickly! 15.29822629611192,0.0,-0.16316097470377144
+[14:45:40] [Server thread/INFO]: Sherrry issued server command: /home
+[14:45:54] [Server thread/INFO]: Sherrry issued server command: /back
+[14:47:39] [Server thread/INFO]: Sherrry issued server command: /home
+[14:47:57] [Server thread/INFO]: Sherrry issued server command: /back
+[14:48:32] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[14:48:32] [Server thread/INFO]: Sherrry left the game
+[14:48:33] [User Authenticator #89/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[14:48:34] [Server thread/INFO]: Sherrry[/60.225.163.6:50106] logged in with entity id 1323720 at ([world_nether]-221.32515151878889, 69.0, 209.69482543885346)
+[14:48:55] [Server thread/INFO]: Sherrry issued server command: /home
+[14:49:02] [Server thread/INFO]: Sherrry issued server command: /back
+[14:50:49] [Server thread/INFO]: Sherrry issued server command: /home
+[14:50:56] [Server thread/INFO]: Sherrry issued server command: /back
+[14:54:52] [Server thread/INFO]: Sherrry issued server command: /home
+[14:55:00] [Server thread/INFO]: Sherrry issued server command: /back
+[15:00:19] [Server thread/INFO]: Sherrry issued server command: /home
+[15:01:49] [Server thread/INFO]: Sherrry issued server command: /home
+[15:02:33] [Server thread/INFO]: Sherrry issued server command: /back
+[15:02:35] [Server thread/INFO]: Sherrry issued server command: /home
+[15:14:09] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[15:14:09] [Server thread/INFO]: Sherrry left the game
+[15:43:10] [User Authenticator #90/INFO]: UUID of player Mkwolfy10 is 61a65e5a-9a30-4a2f-860e-115b910baa71
+[15:43:11] [Server thread/INFO]: Mkwolfy10[/193.115.65.127:63785] logged in with entity id 1327926 at ([world]104.80203001944159, 22.0, 1226.366380330442)
+[15:59:32] [Server thread/INFO]: Mkwolfy10 issued server command: /home
+[15:59:55] [User Authenticator #91/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[15:59:56] [Server thread/INFO]: Sherrry[/60.225.163.6:50294] logged in with entity id 1329334 at ([world_nether]-222.69999998807907, 67.375, 55.79319574085745)
+[16:04:07] [Server thread/INFO]: Mkwolfy10 issued server command: /back
+[16:06:25] [Server thread/INFO]: Mkwolfy10 was slain by Cave Spider
+[16:06:30] [Server thread/INFO]: Mkwolfy10 issued server command: /back
+[16:12:49] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[16:12:49] [Server thread/INFO]: Sherrry left the game
+[16:24:06] [User Authenticator #92/INFO]: UUID of player Bradport1 is 062ba881-6d94-47de-a3eb-7925cc641061
+[16:24:06] [Server thread/INFO]: Bradport1[/129.96.84.175:56420] logged in with entity id 1332378 at ([world]2883.4137432438383, 71.9375, 134.95043613666095)
+[16:28:58] [Server thread/INFO]: Mkwolfy10 issued server command: /home
+[16:30:34] [Server thread/INFO]: Bradport1 was shot by Pillager
+[16:30:38] [Server thread/INFO]: Bradport1 issued server command: /home
+[16:36:02] [Server thread/INFO]: Bradport1 issued server command: /home
+[16:36:30] [Server thread/INFO]: Bradport1 issued server command: /back
+[16:38:46] [Server thread/INFO]: Bradport1 fell from a high place
+[16:38:52] [Server thread/INFO]: Bradport1 issued server command: /back
+[16:40:11] [Server thread/INFO]: Bradport1 burned to death
+[16:40:18] [Server thread/INFO]: Bradport1 issued server command: /back
+[16:40:39] [Server thread/INFO]: Bradport1 has made the advancement [Hot Stuff]
+[16:40:47] [Server thread/INFO]: Bradport1 issued server command: /home
+[16:41:27] [Server thread/INFO]: Bradport1 has made the advancement [Ice Bucket Challenge]
+[16:41:59] [Server thread/INFO]: Bradport1 issued server command: /back
+[16:42:08] [Server thread/INFO]: Bradport1 issued server command: /home
+[16:42:28] [Server thread/INFO]: Bradport1 burned to death
+[16:42:41] [Server thread/INFO]: Bradport1 issued server command: /back
+[16:43:40] [Server thread/INFO]: Bradport1 issued server command: /home
+[16:53:05] [User Authenticator #93/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[16:53:05] [Server thread/INFO]: Sherrry[/60.225.163.6:50634] logged in with entity id 1349839 at ([world_nether]-222.48044682505454, 67.375, 203.51872009546258)
+[16:53:14] [Server thread/INFO]: soopdood issued server command: /msg sherrry tp to me
+[16:53:20] [Server thread/INFO]: Sherrry issued server command: /tpa anthony
+[16:53:25] [Server thread/INFO]: soopdood issued server command: /tpaccept
+[16:53:31] [Server thread/INFO]: soopdood issued server command: /msg sherrry good afk sesh
+[16:53:35] [Server thread/INFO]: Sherrry issued server command: /r LOL
+[16:53:42] [Server thread/INFO]: Sherrry issued server command: /r i finished the wither farm for the most part
+[16:53:42] [Server thread/INFO]: soopdood issued server command: /msg sherrry level 284
+[16:53:46] [Server thread/INFO]: soopdood issued server command: /msg sherrry noice
+[16:53:54] [Server thread/INFO]: Sherrry issued server command: /back
+[16:53:59] [Server thread/INFO]: Sherrry issued server command: /tpahere soopdood
+[16:54:02] [Server thread/INFO]: soopdood issued server command: /tpaccept
+[16:54:43] [Server thread/INFO]: soopdood issued server command: /msg sherrry lol
+[16:54:48] [Server thread/INFO]: Sherrry issued server command: /r vc?
+[16:54:51] [Server thread/INFO]: soopdood issued server command: /msg sherrry ye
+[16:56:45] [Server thread/INFO]: Sherrry issued server command: /home
+[16:56:57] [Server thread/INFO]: Sherrry issued server command: /back
+[16:57:03] [Server thread/INFO]: Bradport1 lost connection: Disconnected
+[16:57:03] [Server thread/INFO]: Bradport1 left the game
+[16:57:11] [Server thread/INFO]: Sherrry issued server command: /back
+[17:00:39] [User Authenticator #94/INFO]: UUID of player ____Pain is de8fd5e4-ba3e-46e9-9bae-bc6ca56ceeeb
+[17:00:39] [Server thread/INFO]: ____Pain[/124.169.244.186:51632] logged in with entity id 1352094 at ([world]2932.827839924099, 81.0, 101.24663990817213)
+[17:01:16] [Server thread/INFO]: soopdood issued server command: /back
+[17:01:49] [Server thread/INFO]: soopdood issued server command: /back
+[17:03:01] [Server thread/INFO]: soopdood issued server command: /home
+[17:03:28] [Server thread/INFO]: soopdood issued server command: /back
+[17:04:26] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[17:04:26] [Server thread/INFO]: Sherrry left the game
+[17:04:28] [User Authenticator #95/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[17:04:28] [Server thread/INFO]: Sherrry[/60.225.163.6:50657] logged in with entity id 1354968 at ([world]-3562.300000011921, 63.0, 1286.6804952302878)
+[17:04:43] [Server thread/INFO]: ____Pain issued server command: /home mine
+[17:04:59] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[17:04:59] [Server thread/INFO]: Sherrry left the game
+[17:05:01] [User Authenticator #96/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[17:05:01] [Server thread/INFO]: Sherrry[/60.225.163.6:50666] logged in with entity id 1355307 at ([world]-3555.310361931663, 66.0, 1276.8479303440608)
+[17:05:13] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[17:05:13] [Server thread/INFO]: Sherrry left the game
+[17:05:15] [User Authenticator #97/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[17:05:15] [Server thread/INFO]: Sherrry[/60.225.163.6:50671] logged in with entity id 1355581 at ([world]-3548.6315926361995, 66.0, 1276.3572240140381)
+[17:05:19] [Server thread/WARN]: soopdood moved too quickly! 7.817167079338105E-4,0.0,-17.959475623784343
+[17:05:26] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[17:05:26] [Server thread/INFO]: Sherrry left the game
+[17:05:30] [User Authenticator #98/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[17:05:30] [Server thread/INFO]: Sherrry[/60.225.163.6:50677] logged in with entity id 1355805 at ([world]-3545.699999988079, 67.0, 1280.8691180957005)
+[17:05:42] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[17:05:42] [Server thread/INFO]: Sherrry left the game
+[17:05:45] [User Authenticator #99/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[17:05:45] [Server thread/INFO]: Sherrry[/60.225.163.6:50682] logged in with entity id 1355942 at ([world]-3543.661486630292, 66.0, 1281.6581102902778)
+[17:06:26] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[17:06:26] [Server thread/INFO]: Sherrry left the game
+[17:06:28] [User Authenticator #100/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[17:06:28] [Server thread/INFO]: Sherrry[/60.225.163.6:50687] logged in with entity id 1356514 at ([world]-3556.4173311457957, 66.0, 1284.1584082463328)
+[17:06:52] [Server thread/INFO]: ____Pain issued server command: /home home
+[17:08:29] [Server thread/INFO]: ____Pain issued server command: /back
+[17:08:43] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[17:08:43] [Server thread/INFO]: Sherrry left the game
+[17:08:44] [User Authenticator #101/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[17:08:45] [Server thread/INFO]: Sherrry[/60.225.163.6:50699] logged in with entity id 1357874 at ([world]-3561.8412348929787, 62.0, 1285.3654823031052)
+[17:08:48] [Server thread/INFO]: Mkwolfy10 lost connection: Disconnected
+[17:08:48] [Server thread/INFO]: Mkwolfy10 left the game
+[17:09:08] [Async Chat Thread - #50/INFO]: [m<~Anthony[m> karl what are you afking at?[m
+[17:09:13] [Async Chat Thread - #50/INFO]: [m<~Anthony[m> the spider farm?[m
+[17:09:17] [Async Chat Thread - #50/INFO]: [m<~Karlos[m> im not afk[m
+[17:09:21] [Server thread/INFO]: ____Pain issued server command: /home home
+[17:09:21] [Async Chat Thread - #50/INFO]: [m<~Bailey[m> mitch is[m
+[17:09:22] [Async Chat Thread - #50/INFO]: [m<~Anthony[m> miut_bro?[m
+[17:09:36] [Async Chat Thread - #50/INFO]: [m<~Karlos[m> dont know what you're talking about[m
+[17:09:49] [Async Chat Thread - #50/INFO]: [m<~Anthony[m> k day 180ish[m
+[17:09:53] [Server thread/INFO]: ____Pain issued server command: /back
+[17:10:09] [Server thread/INFO]: ____Pain issued server command: /home home
+[17:10:16] [Async Chat Thread - #50/INFO]: [m<~Karlos[m> yes its the spider farm[m
+[17:10:19] [Async Chat Thread - #50/INFO]: [m<~Anthony[m> kk[m
+[17:10:25] [Async Chat Thread - #50/INFO]: [m<~Bailey[m> how much string do you need lmao[m
+[17:10:50] [Async Chat Thread - #50/INFO]: [m<~Karlos[m> ive got 20 stacks of wool lmao[m
+[17:10:55] [Async Chat Thread - #50/INFO]: [m<~Anthony[m> i could ez get more[m
+[17:10:58] [Async Chat Thread - #50/INFO]: [m<~Anthony[m> lel[m
+[17:10:59] [Async Chat Thread - #50/INFO]: [m<~Bailey[m> surely afk sheep farm[m
+[17:11:04] [Server thread/INFO]: ____Pain issued server command: /home pumpkinfarm
+[17:11:22] [Async Chat Thread - #50/INFO]: [m<~Karlos[m> ive got 4 full double chests of melon and pumpkin too[m
+[17:11:30] [Async Chat Thread - #50/INFO]: [m<~Bailey[m> all for trading>[m
+[17:11:35] [Async Chat Thread - #50/INFO]: [m<~Karlos[m> yee[m
+[17:14:15] [Server thread/INFO]: soopdood issued server command: /home
+[17:15:19] [Server thread/WARN]: soopdood moved too quickly! 5.9970526662095125,0.0,-11.875760689928285
+[17:15:19] [Server thread/WARN]: Sherrry moved too quickly! -12.912836821127712,-1.0,5.810486698548857
+[17:16:39] [Server thread/INFO]: ____Pain issued server command: /home home
+[17:18:14] [Server thread/INFO]: soopdood issued server command: /home
+[17:18:25] [Server thread/INFO]: ____Pain issued server command: /delhome mine
+[17:18:42] [Server thread/INFO]: Sherrry issued server command: /home
+[17:18:47] [Server thread/INFO]: soopdood issued server command: /tpa Sherrry
+[17:18:49] [Server thread/INFO]: Sherrry issued server command: /tpaccept
+[17:18:53] [Server thread/INFO]: Sherrry issued server command: /back
+[17:18:56] [Server thread/INFO]: soopdood issued server command: /tpa ____Pain
+[17:19:05] [Server thread/INFO]: ____Pain issued server command: /tpaccept
+[17:20:24] [Server thread/INFO]: ____Pain issued server command: /warp shop
+[17:20:30] [Server thread/INFO]: Sherrry issued server command: /home
+[17:20:45] [Server thread/INFO]: Sherrry issued server command: /spawn
+[17:22:14] [Server thread/INFO]: ____Pain issued server command: /pay
+[17:22:24] [Server thread/INFO]: ____Pain issued server command: /back
+[17:22:58] [Server thread/INFO]: Sherrry issued server command: /home
+[17:24:03] [Server thread/INFO]: ____Pain issued server command: /sethome village
+[17:24:09] [Server thread/INFO]: ____Pain issued server command: /home home
+[17:25:14] [Server thread/INFO]: ____Pain issued server command: /home village
+[17:26:36] [Server thread/INFO]: soopdood issued server command: /home
+[17:27:04] [Server thread/INFO]: ____Pain issued server command: /home home
+[17:27:28] [Server thread/INFO]: soopdood lost connection: Disconnected
+[17:27:28] [Server thread/INFO]: soopdood left the game
+[17:35:12] [Server thread/INFO]: ____Pain issued server command: /home home
+[17:38:09] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[17:38:09] [Server thread/INFO]: Sherrry left the game
+[17:38:13] [User Authenticator #102/INFO]: UUID of player Sherrry is c7c1d39d-59a5-4da7-8b41-2f813c4b6138
+[17:38:13] [Server thread/INFO]: Sherrry[/60.225.163.6:50798] logged in with entity id 1368913 at ([world]-3536.6483343841714, 67.0, 1172.4921525091763)
+[17:41:23] [Server thread/INFO]: Sherrry lost connection: Disconnected
+[17:41:23] [Server thread/INFO]: Sherrry left the game
+[17:42:12] [Server thread/INFO]: CONSOLE issued server command: /list 
+[17:42:12] [Server thread/INFO]: [0;33;22mThere are [0;31;1m2[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[17:42:12] [Server thread/INFO]: [0;33;22mdefault[m: [0;37;22m[AFK][mmit_bro[m[0;37;1m, [0;37;22m[AFK][m~Karlos[m[0;37;1m[m
+[17:44:52] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:44:53] [Server thread/INFO]: Saved the game
+[17:44:56] [Server thread/INFO]: Stopping the server
+[17:44:56] [Server thread/INFO]: Stopping server
+[17:44:56] [Server thread/INFO]: [GroupManager] Disabling GroupManager v0.2.0
+[17:44:56] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[17:44:56] [Server thread/INFO]: GroupManager version 0.2.0 is disabled!
+[17:44:56] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.1.0
+[17:44:56] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.1.0
+[17:44:56] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.1.0
+[17:44:56] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.1.0
+[17:44:56] [Server thread/INFO]: Saving players
+[17:44:56] [Server thread/INFO]: mit_bro lost connection: Server closed
+[17:44:56] [Server thread/INFO]: mit_bro left the game
+[17:44:56] [Server thread/INFO]: ____Pain lost connection: Server closed
+[17:44:56] [Server thread/INFO]: ____Pain left the game
+[17:44:56] [Server thread/INFO]: Saving worlds
+[17:44:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:44:57] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[17:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:44:57] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[17:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

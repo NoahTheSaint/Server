@@ -1,0 +1,29 @@
+lastAccountName: Bradport1
+timestamps:
+  login: 1565074446829
+  lastteleport: 1565075620489
+  logout: 1565076423864
+ipAddress: 129.96.84.175
+lastlocation:
+  world: world
+  x: 2803.091126769939
+  y: 64.0
+  z: 131.3605995305866
+  yaw: -85.8178
+  pitch: 10.649987
+homes:
+  home:
+    world: world
+    x: 2871.9255476210064
+    y: 77.0
+    z: 143.95989442300427
+    yaw: 104.68265
+    pitch: 10.50001
+afk: false
+logoutlocation:
+  world: world
+  x: 2945.0364570078937
+  y: 70.0
+  z: 196.97181866794747
+  yaw: 213.43604
+  pitch: 27.149876

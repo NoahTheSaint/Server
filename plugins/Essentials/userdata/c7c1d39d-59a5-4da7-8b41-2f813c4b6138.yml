@@ -1,0 +1,30 @@
+lastAccountName: Sherrry
+timestamps:
+  login: 1565078894038
+  lastteleport: 1565077978488
+  logout: 1565079083214
+ipAddress: 60.225.163.6
+afk: false
+homes:
+  home:
+    world: world
+    x: -3556.7300181218625
+    y: 66.0
+    z: 1224.8014429417037
+    yaw: -1.7338161
+    pitch: 15.231209
+lastlocation:
+  world: world
+  x: -57.314043561489086
+  y: 72.0
+  z: -151.39699670597452
+  yaw: -95.15575
+  pitch: -46.37814
+logoutlocation:
+  world: world
+  x: -3542.22936901726
+  y: 64.0
+  z: 1180.5146236640908
+  yaw: 294.85236
+  pitch: 15.03137
+nickname: Bailey

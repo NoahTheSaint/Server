@@ -1,0 +1,31 @@
+lastAccountName: soopdood
+timestamps:
+  login: 1565011716992
+  logout: 1565078248418
+  lastteleport: 1565078196745
+ipAddress: 124.169.241.64
+nickname: Anthony
+logoutlocation:
+  world: world
+  x: 120.79773087636697
+  y: 59.0
+  z: -35.848937203039256
+  yaw: -347.45087
+  pitch: -0.40904564
+lastlocation:
+  world: world
+  x: 2930.973799906153
+  y: 70.0
+  z: 249.0377138614553
+  yaw: 180.18245
+  pitch: 10.601376
+homes:
+  home:
+    world: world
+    x: 117.11246453025382
+    y: 59.0
+    z: -23.818329061131365
+    yaw: -122.50493
+    pitch: 14.004405
+afk: false
+money: '6584'

@@ -1,0 +1,29 @@
+lastAccountName: Mkwolfy10
+timestamps:
+  login: 1565071991169
+  lastteleport: 1565074738176
+  logout: 1565077128767
+ipAddress: 193.115.65.127
+homes:
+  home:
+    world: world
+    x: 41.518782065777295
+    y: 74.0
+    z: 603.943589056003
+    yaw: 273.7531
+    pitch: 16.799934
+lastlocation:
+  world: world
+  x: -16.567654226364404
+  y: 17.0
+  z: 1205.4561626953657
+  yaw: 263.70105
+  pitch: 16.050278
+logoutlocation:
+  world: world
+  x: 52.070316543755084
+  y: 74.0
+  z: 604.3556845100148
+  yaw: 88.760864
+  pitch: 14.25
+afk: false

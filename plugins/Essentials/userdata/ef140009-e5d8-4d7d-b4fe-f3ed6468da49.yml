@@ -1,0 +1,29 @@
+lastAccountName: NatmanNotBatman
+timestamps:
+  login: 1564995863889
+  logout: 1564997100829
+  lastteleport: 1564996879073
+ipAddress: 49.180.168.132
+lastlocation:
+  world: world
+  x: -58.0
+  y: 72.0
+  z: -141.0
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+logoutlocation:
+  world: world
+  x: -398.1095096072501
+  y: 71.0
+  z: -368.77810867957766
+  yaw: -240.29721
+  pitch: 22.500288
+homes:
+  home:
+    world: world
+    x: -398.963008234874
+    y: 71.0
+    z: -368.0216650945873
+    yaw: -195.59674
+    pitch: 10.199981
